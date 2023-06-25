@@ -1,0 +1,3 @@
+datasource:
+  json:
+    file_path: ${FILE_PATH:src/main/resources/transactions.json}
